@@ -1645,6 +1645,7 @@ Handy metrics based on numbers above:
 * [Latency numbers every programmer should know - 2](https://gist.github.com/hellerbarde/2843375)
 * [Designs, lessons, and advice from building large distributed systems](http://www.cs.cornell.edu/projects/ladis2009/talks/dean-keynote-ladis2009.pdf)
 * [Software Engineering Advice from Building Large-Scale Distributed Systems](https://static.googleusercontent.com/media/research.google.com/en//people/jeff/stanford-295-talk.pdf)
+https://cin.ufpe.br/~fbma/Crack/Cracking%20the%20Coding%20Interview%20189%20Programming%20Questions%20and%20Solutions.pdf
 
 ### Additional system design interview questions
 
